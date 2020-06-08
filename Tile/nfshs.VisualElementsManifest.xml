@@ -2,7 +2,7 @@
 
 <Application xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <VisualElements
-        BackgroundColor="#404040"
+        BackgroundColor="#9a1510"
         ShowNameOnSquare150x150Logo="off"
         ForegroundText="light"
         Square150x150Logo="tile.png"
