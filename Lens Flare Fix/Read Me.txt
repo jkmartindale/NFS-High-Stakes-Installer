@@ -1,0 +1,5 @@
+This corrects the crusty looking lens flare bitmap with a smoother one, which has a subtle touch of rainbow colour to the edge. That was inspired by one I saw in N.F.S.: The Run.
+Put the new FSH file into your \Data\GameArt directory off your main installation location for Need For Speed: High Stakes.
+
+By JMK — 2017.
+jmk222@beagle.com.au

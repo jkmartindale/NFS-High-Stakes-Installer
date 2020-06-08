@@ -1,0 +1,4 @@
+# Generated installers
+/*.exe
+# CD Files and suffix-based renames for disabling it
+CD Files*/
