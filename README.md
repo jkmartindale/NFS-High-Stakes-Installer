@@ -22,7 +22,7 @@ This is based on a nocd installer dated 2012-11-03 claiming to be from https://w
 1. Insert a *Need For Speed: High Stakes* disc or mount a [disc image](https://www.myabandonware.com/game/need-for-speed-high-stakes-bgf#download)
 1. Run the installer
 
-The installer requires files on the game disc to install so that I can avoid distributing a full pirated copy of the game. The installer still applies a nocd patch so once the game is installed, the CD wil no longer be needed.
+The installer requires files on the game disc to install so that I can avoid distributing a full pirated copy of the game. The installer still applies a nocd patch so once the game is installed, the CD will no longer be needed.
 
 ## Build
 I wrote this targeting Inno Setup 6. You could likely build this with an older version but why would you? Anyway I didn't add a version check to the script, if you want to shoot yourself in the foot that's not my problem.
