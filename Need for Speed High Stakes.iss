@@ -1,4 +1,6 @@
-﻿#define AppIcon "NFSHS.ICO"
+﻿; This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, you can obtain one at https://mozilla.org/MPL/2.0/.
+
+#define AppIcon "NFSHS.ICO"
 #define DisplayName "Need For Speed: High Stakes"
 #define DisplayNamePathSafe "Need For Speed High Stakes"
 #define SetupVersion "0.1.0"
