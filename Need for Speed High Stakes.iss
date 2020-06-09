@@ -3,7 +3,7 @@
 #define AppIcon "NFSHS.ICO"
 #define DisplayName "Need For Speed: High Stakes"
 #define DisplayNamePathSafe "Need For Speed High Stakes"
-#define SetupVersion "0.1.0"
+#define SetupVersion "0.1.1"
 #define Version "4.50"
 
 ; Create a "CD Files" directory to make an all-in-one installer
