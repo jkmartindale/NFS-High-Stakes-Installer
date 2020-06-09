@@ -31,5 +31,10 @@ Nothing special is needed to build the installer other than Inno Setup. However 
 
 If you want to build both the CD-required and standalone installers, you will probably need to restart the Inno Setup compiler between builds if you're using the GUI. Otherwise it will build to the last-used filename, which will not match.
 
+## Burning
+If you're going to burn a CD with the installer, the `Burning` directory includes an icon and `autorun.inf` ready to go. If you decide to rename the installer, make sure to update `open` and `shell\modern\command`. The autorun file is set up to offer both the modern installer and the classic installer. If you want just the modern installer, remove all the lines starting with "shell".
+
+The directory also has a CD label and accompanying PSD.
+
 ## License
 I can only claim ownership of the install script and the Start tile manifest. FSHTool is distributed under the terms of the GNU General Public License. `FindDisc.pas` is modified from [Triangle717](https://triangle717.wordpress.com/)'s [LEGO®️ Racers Alternate Installer](https://github.com/le717/Racers-Alternate-Installer), with an unknown license. The other components, media, and binaries are subject to separate licenses from their respective owners.

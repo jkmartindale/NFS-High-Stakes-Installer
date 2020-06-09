@@ -1,0 +1,9 @@
+[autorun]
+icon=Logo by Exhumed.ico
+label=Need For Speed: High Stakes
+open=Need For Speed High Stakes 4.50 (Install Requires CD).exe
+shell=modern
+shell\modern\command=Need For Speed High Stakes 4.50 (Install Requires CD).exe
+shell\modern=Modern &Install (Windows Vista+)
+shell\classic\command=setup.exe
+shell\classic=&Classic Install
