@@ -37,4 +37,6 @@ If you're going to burn a CD with the installer, the `Burning` directory include
 The directory also has a CD label and accompanying PSD.
 
 ## License
-I can only claim ownership of the install script and the Start tile manifest. FSHTool is distributed under the terms of the GNU General Public License. `FindDisc.pas` is modified from [Triangle717](https://triangle717.wordpress.com/)'s [LEGO®️ Racers Alternate Installer](https://github.com/le717/Racers-Alternate-Installer), with an unknown license. The other components, media, and binaries are subject to separate licenses from their respective owners.
+I can only claim ownership of the install script and the Start tile manifest, which are offered under version 2.0 of the Mozilla Public License. FSHTool is distributed under the terms of the GNU General Public License.
+
+`FindDisc.pas` is modified from [Triangle717](https://triangle717.wordpress.com/)'s [LEGO®️ Racers Alternate Installer](https://github.com/le717/Racers-Alternate-Installer), with an unknown license. All other components, media, and binaries are subject to separate licenses from their respective owners.
